@@ -2,6 +2,10 @@
 
 MyWorkoutApp ist eine Android-App, mit der Nutzer verschiedene Workouts absolvieren können. Die App ist in Kotlin mit Jetpack Compose entwickelt.
 
+## Information
+
+- **Die Töne funktionieren eventuell nur, wenn die App auf einem echten Gerät ausgeführt wird.**
+
 ## Funktionen
 
 - **Startbildschirm:** Übersicht über alle verfügbaren Workouts und Anzeige, wie viele Workouts bereits abgeschlossen wurden.
@@ -12,9 +16,6 @@ MyWorkoutApp ist eine Android-App, mit der Nutzer verschiedene Workouts absolvie
 - **Fortschrittsanzeige:** Nach Abschluss eines Workouts wird der Fortschritt gespeichert und auf dem Startbildschirm angezeigt.
 - **Navigation:** Nach jedem Workout gelangt der Nutzer zum Endscreen und kann von dort zurück zum Startbildschirm navigieren.
 
-## Information
-
-- **Die Töne funktionieren eventuell nur, wenn die App auf einem echten Gerät ausgeführt wird.**
 
 ## Installation
 
